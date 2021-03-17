@@ -4,6 +4,10 @@ Este proyecto busca mostrar una posible forma de organizar el código que se va 
 
 Esta organización es una sugerencia que puede ser adaptada a  las necesidades y gustos de cada persona.
 
+Datos de los estudiantes:
+Estudiante 1: José Daniel Montero Gutiérrez (202012732): j.monterog@uniandes.edu.co
+Estudiante 2: Jesed Alejandro Dominguez Piratova (202011992): j.dominguezp@uniandes.edu.co
+
 La estructura tiene los siguiente directorios y archivos:
 
 -App
